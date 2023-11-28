@@ -24,4 +24,17 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+body {
+  background-color: #121214;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to right, #80808012 1px, transparent 1px),
+  linear-gradient(to bottom, #80808012 1px, transparent 1px);
+  background-size: 24px 24px;
+  padding-inline: 2.2rem;
+    max-width: 40rem;
+    margin: 3.2rem auto;
+}
 </style>

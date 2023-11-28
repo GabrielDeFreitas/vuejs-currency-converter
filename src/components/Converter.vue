@@ -49,5 +49,17 @@ export default {
 
 <style scoped>
 
+:root {
+  --primary-200: #fcd085;
+  --primary-400: #ffbc48;
+}
+
+.converter {
+  background-color: #444448;
+  padding: 2.8rem;
+  border-radius: 0.8rem;
+  color: white;
+}
+
 </style>
 
